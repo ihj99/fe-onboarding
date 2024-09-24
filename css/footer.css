@@ -1,0 +1,65 @@
+#footer {
+    position: relative;
+    bottom: -62%;
+    width: 100%;
+    height: 15%;
+    background-color: #6a6a6a;
+    color: #ffffff;
+    font-size: 14px;
+}
+
+
+#foot_box {
+    position: absolute;
+    left: 15.7%;
+    bottom: 22%;
+}
+
+
+#footer ul li {
+    list-style: none; 
+    display: inline;
+    padding: 30px 0 0 10px; 
+}
+
+#footer ul li a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+#line1 li:nth-child(4) a {
+    color: #CCCCCC;
+}
+
+#line1 li:nth-child(5) a {
+    color: #CCCCCC;
+}
+
+#line1 li:nth-child(6) a {
+    color: #CCCCCC;
+}
+
+#line1 li:nth-child(8) a {
+    color: #CCCCCC;
+}
+
+#line1 li:nth-child(10) a {
+    color: #CCCCCC;
+}
+
+#top_btn {
+    background-color: #4f4d4c;
+    border-radius: 2px;
+    width: 32px;
+    height: 32px;
+    overflow: hidden;
+    text-align: center;
+    text-indent: -5000em;
+}
+
+#top_btn:before {
+    color: transparent;
+    background: url(../img/sp_layout.png) no-repeat -169px -10px;
+    width: 12px;
+    height: 13px;
+}
